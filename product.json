@@ -1,0 +1,73 @@
+{
+    "Product": [
+        {
+            "id": 1,
+            "product_name": "Girl's Top",
+            "category": "Fashion",
+            "category_id": 1,
+            "Price": 2000,
+            "Size": "Small",
+            "Color": "Maroon",
+            "Brand": "Gucci"
+        },
+        {
+            "id": 2,
+            "product_name": "Girl's Top",
+            "category": "Fashion",
+            "category_id": 1,
+            "Price": 1500,
+            "Size": "Medium",
+            "Color": "Blue",
+            "Brand": "Westside"
+        },
+        {
+            "id": 3,
+            "product_name": "Iron",
+            "category": "Electronics",
+            "category_id": 2,
+            "Price": 3000,
+            "Color": "Blue",
+            "Company": "Havells"
+        },
+        {
+            "id": 4,
+            "product_name": "Iron",
+            "category": "Electronics",
+            "category_id": 2,
+            "Price": 4000,
+            "Color": "Black",
+            "Company": "Bajaj"
+        },
+        {
+            "id": 5,
+            "product_name": "Computers Accessories & Peripherals",
+            "category": "Computers",
+            "category_id": 3,
+            "Price": 4000,
+            "Color": "Black",
+            "Company": "Bajaj"
+
+        },
+        {"id": 6,
+            "product_name": "Monitors",
+            "category": "Computers",
+            "category_id": 3,
+            "Price":14699,
+            "Color": "Black",
+            "Company": "Dell",
+           "Image":"https://ibb.co/Kr7CqyZ" 
+
+        },
+       {
+        "id": 7,
+            "product_name": "Monitors",
+            "category": "Computers",
+            "category_id": 3,
+            "Price": 32450,
+            "Color": "Black",
+            "Company": "Samsung",
+            "Image":"https://ibb.co/TKgwQZm" 
+       } 
+       
+    ]
+}
