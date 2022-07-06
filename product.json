@@ -52,7 +52,7 @@
             "Price": 4000,
             "Color": "Black",
             "Company": "Bajaj",
-            "Image":"https://ibb.co/Kr7CqyZ" 
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
 
         },
         {"id": 6,
@@ -62,8 +62,7 @@
             "Price":14699,
             "Color": "Black",
             "Company": "Dell",
-           "Image":"https://ibb.co/Kr7CqyZ" 
-
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
         },
        {
         "id": 7,
@@ -73,7 +72,7 @@
             "Price": 32450,
             "Color": "Black",
             "Company": "Samsung",
-            "Image":"https://ibb.co/TKgwQZm" 
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
        } ,
        {
         "id": 8,
@@ -83,7 +82,7 @@
             "Price": 32450,
             "Color": "Black",
             "Company": "Samsung",
-            "Image":"https://ibb.co/TKgwQZm" 
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
        } ,
        {
         "id": 9,
@@ -93,7 +92,7 @@
             "Price": "₹18,299",
             "Color": "Black",
             "Brand": "Canon",
-            "Image":"https://ibb.co/g918vth" 
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
        } ,
        {
         "id": 10,
@@ -103,7 +102,7 @@
             "Price": 32450,
             "Color": "Black",
             "Brand": "Canon",
-            "Image":"https://ibb.co/w0pnNr5" 
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
        } ,
        {
         "id": 11,
@@ -113,7 +112,7 @@
             "Price": 32450,
             "Color": "Black",
             "Company": "Samsung",
-            "Image":"https://ibb.co/TKgwQZm" 
+            "Image":"https://i.ibb.co/0Q99s6d/girlstop1.jpg" 
        } 
        
     ]
